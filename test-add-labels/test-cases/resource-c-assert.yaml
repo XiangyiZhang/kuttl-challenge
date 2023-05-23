@@ -1,0 +1,8 @@
+apiVersion: kuttl.dev/v1beta1
+kind: Pod
+metadata:
+  name: pod-resource
+  namespace: team-4
+  labels:
+    any-label0: foo
+    any-label1: bar

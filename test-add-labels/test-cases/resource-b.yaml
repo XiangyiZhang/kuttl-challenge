@@ -1,0 +1,10 @@
+apiVersion: kuttl.dev/v1beta1
+kind: ConfigMap
+metadata:
+  name: configmap-resource
+  namespace: default
+  labels:
+    any-label0: foo
+    any-label1: bar
+data:
+  foo: bar
