@@ -4,8 +4,6 @@ metadata:
   name: configmap-resource
   namespace: team-4
   labels:
-    any-label0: foo
-    any-label1: bar
     lfx-mentorship: existing
 data:
   foo: bar
