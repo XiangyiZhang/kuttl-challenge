@@ -1,5 +1,5 @@
 ## Description
-The policy policy adds the label "lfx-mentorship: kyverno" to ConfigMap resources in namespaces that start with "team-". This testsuite aims to validate the functionality of this policy.
+The policy adds the label "lfx-mentorship: kyverno" to ConfigMap resources in namespaces that start with "team-". This testsuite aims to validate the functionality of this policy.
 
 ## Expected Behavior
 
